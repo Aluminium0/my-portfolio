@@ -11,7 +11,8 @@ I'm learning Git and GitHub. This is my first project on GitHub Pages!
 - **GitHub Pages** deployment
 
 ### 📂 Projects
-1. **Portfolio Website** - This very page!
+**Portfolio Website** - This very page!
+
 
 
 ### Contact Me
